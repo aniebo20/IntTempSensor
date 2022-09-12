@@ -1,2 +1,2 @@
 # IntTempSensor
-Using ADC to read internal temperature sensor on Bare-Metal
+Using continuous read-mode ADC to read internal temperature sensor on Bare-Metal
